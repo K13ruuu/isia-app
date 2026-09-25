@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283025962871",
+    "project_id": "isia-sngf41",
+    "storage_bucket": "isia-sngf41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283025962871:android:4ed992aefd954cc7b59372",
+        "android_client_info": {
+          "package_name": "com.example.isia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-52RrtOQuFskO2KxrCGHKrG4tNBkFJn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

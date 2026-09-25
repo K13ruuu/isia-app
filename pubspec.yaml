@@ -1,0 +1,35 @@
+name: isia_app
+description: "ISIA - Information, Support, and Inspiration for All"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+  cloud_firestore: ^5.5.0
+  firebase_messaging: ^15.1.5
+  firebase_storage: ^12.3.6
+  googleapis_auth: ^1.6.0
+  http: ^1.2.2
+  flutter_local_notifications: ^18.0.1
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/service-account.json
+    - ISIA App.png
+    - ISIA UI.png
+    - assets/images/isia_logo.png
